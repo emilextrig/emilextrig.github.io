@@ -10,6 +10,8 @@ I also work with Omdena in using AI to solve social problems.
 I LOVE working with and on data and, I am interested in anything BI/DS/ML/DL & RL.
 Pythonista & uses R a bit. 
 
+kaggle: https://www.kaggle.com/frederickemile
+
 
 
 ### Contact me
